@@ -37,6 +37,19 @@ e.g.
 add outdoor components, additional or different sensors, etc
 
 
+### Non-mandatory!
+
+This assignment is not mandatory, but it is a great way to explore many of the aspects from class.
+You can use this small device to get experience with some of the constraints that are inherent in IoT systems, like limited compute, power, bandwidth, cost, storage, etc.
+
+The suggested voluntary hand-in for this assignment is a short report (5-10 pages) describing your system and which design choices you made. 
+We encourage a clearly structured report and the use of system diagrams, flow-charts to describe the states of the system, graphs of experimental results/data, etc.
+
+This is also an opportunity to discuss the limitations of your systems and how you would go about extending (e.g. for scaling out, making a battery-powered version, etc), and get feedback on these reflections.
+The exam will cover many of these aspects, where you will be asked to discuss and give examples.
+This assignment is highly suitable as preparation for the exam. You might even be able to use some of the text directly.
+
+### Base kit
 
 Your base kit will consist of:
 
@@ -46,6 +59,7 @@ https://docs.pycom.io/datasheets/development/lopy4/
 A sensirion SCD30
 https://www.sensirion.com/en/environmental-sensors/carbon-dioxide-sensors/carbon-dioxide-sensors-co2/
 
+### URLs
 
 Here are some good starting points:
 
