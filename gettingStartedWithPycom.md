@@ -39,8 +39,12 @@ When both software and hardware are in place:
 
 ### Connecting to the LoPY
 
-In general, [pycoms own intro guide](hhttps://docs.pycom.io/tutorials/basic/) is pretty good. We also have a short intro guide here, 
-but if you still have trouble running code, have a look at the pycom guide.
+In general, pycoms guide is pretty good. 
+
+https://docs.pycom.io/gettingstarted/
+https://docs.pycom.io/tutorials/basic/ 
+
+We add a few remarks.
 
 ##### Serial connection through USB micro
 
