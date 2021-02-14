@@ -13,8 +13,8 @@ additional:
 Contact us for pickup in Nørrebro
 
 By appointment, at ITU / Sebastian 60434784:
-Feb 15 - Monday
-Feb 16 - Tuesday
-Feb 17 - Wednesday
+Feb 15 - Monday - 11-16
+Feb 16 - Tuesday - 11-15
+Feb 17 - Wednesday - 11-14
 
 ```
