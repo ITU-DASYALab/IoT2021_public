@@ -3,6 +3,10 @@
 
 Krčo, S., Pokrić, B., & Carrez, F. (2014, March). Designing IoT architecture (s): A European perspective. In 2014 IEEE world forum on internet of things (WF-IoT) (pp. 79-84). IEEE.
 
+## Sensors
+
+National Instruments Measurement Fundamentals series - http://www.ni.com/white-paper/14860/en/
+
 ## Embedded systems
 
 Saltzer, J. H., & Kaashoek, M. F. (2009). Principles of computer system design: an introduction. Morgan Kaufmann.
@@ -16,3 +20,29 @@ Opler, Ascher (January 1967). "Fourth-Generation Software". Datamation. 13 (1): 
 Hahm, O., Baccelli, E., Petersen, H., & Tsiftes, N. (2015). 
 Operating systems for low-end devices in the internet of things: a survey. 
 IEEE Internet of Things Journal, 3(5), 720-734.
+
+## Networking
+
+```
+Tanenbaum, A. S., & Wetherall, D. (1996). Computer networks. Prentice-Hall international editions, I-XVII.
+Please read: Ch. 1.4 Reference Models
+
+Flickenger, R. (2007). Wireless Networking in the Developing World: A practical guide to planning and building low-cost telecommunications infrastructure. Hacker Friendly LLC, Seattle, WA, US.
+Chapters 1 & 4
+```
+
+
+optional. in-depth radio propagation - a glimpse into:
+```
+Barclay, L. (Ed.). (2003). Propagation of radiowaves (Vol. 2). Iet.
+```
+Layer models / OSI/ISO:
+
+```
+Day, J. D., & Zimmermann, H. (1983). The OSI reference model. Proceedings of the IEEE, 71(12), 1334-1340.
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1457043
+
+Briscoe, N. (2000). Understanding the OSI 7-layer model. PC Network Advisor, 120(2), 13-15.
+https://www.os3.nl/_media/info/5_osi_model.pdf
+```
+
