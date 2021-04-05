@@ -46,3 +46,17 @@ Briscoe, N. (2000). Understanding the OSI 7-layer model. PC Network Advisor, 120
 https://www.os3.nl/_media/info/5_osi_model.pdf
 ```
 
+## Security
+
+
+LoRaWAN Networks Susceptible to Hacking: Common Cyber Security Problems, How to Detect and Prevent Them
+
+https://act-on.ioactive.com/acton/attachment/34793/f-87b45f5f-f181-44fc-82a8-8e53c501dc4e/1/-/-/-/-/LoRaWAN%20Networks%20Susceptible%20to%20Hacking.pdf
+
+
+Ferrara, P., Mandal, A. K., Cortesi, A., & Spoto, F. (2020). Static analysis for discovering IoT vulnerabilities. International Journal on Software Tools for Technology Transfer, 1-18
+https://link.springer.com/article/10.1007/s10009-020-00592-x
+
+Neshenko, N., Bou-Harb, E., Crichigno, J., Kaddoum, G., & Ghani, N. (2019). Demystifying IoT security: an exhaustive survey on IoT vulnerabilities and a first empirical look on internet-scale IoT exploitations. IEEE Communications Surveys & Tutorials, 21(3), 2702-2733.
+https://ieeexplore.ieee.org/abstract/document/8688434
+
