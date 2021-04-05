@@ -60,3 +60,4 @@ https://link.springer.com/article/10.1007/s10009-020-00592-x
 Neshenko, N., Bou-Harb, E., Crichigno, J., Kaddoum, G., & Ghani, N. (2019). Demystifying IoT security: an exhaustive survey on IoT vulnerabilities and a first empirical look on internet-scale IoT exploitations. IEEE Communications Surveys & Tutorials, 21(3), 2702-2733.
 https://ieeexplore.ieee.org/abstract/document/8688434
 
+Yin, L., Fang, B., Guo, Y., Sun, Z., & Tian, Z. (2020). Hierarchically defining Internet of Things security: From CIA to CACA. International Journal of Distributed Sensor Networks, 16(1), 1550147719899374.
